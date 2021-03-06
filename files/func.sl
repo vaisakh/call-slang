@@ -1,0 +1,5 @@
+FUNCTION BOOLEAN MAIN()
+PRINT "Hello World";
+
+END
+
